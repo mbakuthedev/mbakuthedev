@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Favor</h1>
-<h3 align="center">A fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Favour</h1>
+<h3 align="center">A Teacher, fullstackblockchain and developer</h3>
 
-- 🔭 I’m currently working on **Solidity**
+- 🔭 I’m currently working on **Getting better**
 
-- 👯 I’m looking to collaborate on **.net and solidity projects**
+- 👯 I’m looking to collaborate on **.net and blockchain projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Job Offers**
 
-- 💬 Ask me about **the .NET community,Angular and Solidity**
+- 💬 Ask me about **the .NET community,Angular and blockchain**
 
 - 📫 How to reach me **favourdamilareadeogo@gmail.com**
 
