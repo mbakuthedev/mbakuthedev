@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Favour</h1>
-<h3 align="center">A Teacher, fullstackblockchain and developer</h3>
+<h1 align="center">Hi 👋, I'm Mbaku</h1>
+<h3 align="center">A Teacher, fullstack and blockchain developer</h3>
 
 - 🔭 I’m currently working on **Getting better**
 
