@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mbaku</h1>
-<h3 align="center">A Teacher, fullstack and blockchain developer</h3>
+<h3 align="center">A Teacher and backend developer</h3>
 
 - 🔭 I’m currently working on **Getting better**
 
-- 👯 I’m looking to collaborate on **.net and blockchain projects**
+- 👯 I’m looking to collaborate on **.net projects**
 
 - 🤝 I’m looking for help with **Job Offers**
 
